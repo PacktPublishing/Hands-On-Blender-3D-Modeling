@@ -1,2 +1,2 @@
-# -Learning-C-8-and-.NET-Core-3.0
- Learning C# 8 and .NET Core 3.0  [Video], published by Packt
+# Learning Blender 3D in 7 Days
+ Learning Blender 3D and 3D creation in 7 Days, published by Packt
