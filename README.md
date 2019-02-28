@@ -23,33 +23,32 @@ The code bundle for this video course is available at - https://github.com/Packt
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-To fully benefit from the coverage included in this course, you will need:
-●	Basic Computer usage knowledge IE: Typing and Mouse Usage
-●	Familiarity with Git and GitHub for certain File Access
-●	Access to the Internet for software downloads
+●	Basic Computer usage knowledge IE: Typing and Mouse Usage<br/>
+●	Familiarity with Git and GitHub for certain File Access<br/>
+●	Access to the Internet for software downloads<br/>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Minimum Hardware Requirements For Blender 3D 
-For successful completion of this course, students will require the computer systems with at least the following: 
- 	OS: Windows Vista and above, m ac OS 10.6 and above, L inux 
- 	Processor: 32-bit dual core 2Ghz CPU with SSE2 support 
- 	Memory: 2 GB RAM 
- 	Storage: 157MB of free space 
+Minimum Hardware Requirements For Blender 3D <br/>
+For successful completion of this course, students will require the computer systems with at least the following: <br/>
+ 	OS: Windows Vista and above, m ac OS 10.6 and above, Linux <br/>
+ 	Processor: 32-bit dual core 2Ghz CPU with SSE2 support <br/>
+ 	Memory: 2 GB RAM <br/> 
+ 	Storage: 157MB of free space <br/>
 
-Recommended Hardware Requirements For Blender 3D 
-For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration: 
- 	OS: Windows Vista and above, mac OS 10.6 and above, Linux
- 	Processor: 64-bit quad core CPU 
- 	Memory: 8 GB RAM 
+Recommended Hardware Requirements For Blender 3D <br/>
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration: <br/>
+ 	OS: Windows Vista and above, mac OS 10.6 and above, Linux<br/>
+ 	Processor: 64-bit quad core CPU <br/>
+ 	Memory: 8 GB RAM <br/>
 
-This course has been tested on the following system configuration:
-●	OS: Mac OS 10.14.3
-●	Processor: 2.3 GHz Intel Core i5
-●	Memory: 8GB
-●	Hard Disk Space: 1 TB
+This course has been tested on the following system configuration:<br/>
+●	OS: Mac OS 10.14.3<br/>
+●	Processor: 2.3 GHz Intel Core i5<br/>
+●	Memory: 8GB<br/>
+●	Hard Disk Space: 1 TB<br/>
 
-●	Video Card: Intel Iris Plus Graphics 640 1536 MB
+●	Video Card: Intel Iris Plus Graphics 640 1536 MB<br/>
 
 
 ## Related Products
